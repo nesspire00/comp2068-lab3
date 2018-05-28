@@ -1,0 +1,15 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Lab 3 for COMP2068",
+  "main": "lab3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon lab3.js"
+  },
+  "author": "Mykyta Naumenko",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.6.6"
+  }
+}
